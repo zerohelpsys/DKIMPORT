@@ -17,7 +17,7 @@ const products = [
     specs: 'IMPORTED- 10000MAH - QUICK CHARGE',
   },
   {
-    image: 'Products/Powerbanks/powerbank3.jpg', // ✅ Same correction
+    image: 'Products/Powerbanks/Powerbank3.jpg', // ✅ Same correction
     title: 'LOT IMPORTED POWERBANK',
     code: 'P003',
     price: '3000/-PKR',
