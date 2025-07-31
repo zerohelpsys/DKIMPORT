@@ -9,7 +9,7 @@ const products = [
     specs: 'QUICK CHARGING SUPPORT- 50000MAH - 4 USB TO TYPE C PORT - 2 TYPE C TO TYPE C PORT',
   },
   {
-    image: 'Products/Powerbanks/powerbank2.jpg', // ✅ Same correction
+    image: 'Products/Powerbanks/Powerbank2.jpg', // ✅ Same correction
     title: 'TREQA IMPORTED POWERBANK',
     code: 'P002',
     price: '1500/-PKR',
